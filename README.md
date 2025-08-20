@@ -1,4 +1,10 @@
-## Hi there 👋
+# ZensorNoCtrl Website
+
+Offizielle Underground-Page von **ZensorNoCtrl**.  
+Politischer Untergrund-Sound – härter als PR, zurück zu echter Menschlichkeit.  
+
+👉 Live ansehen: [GitHub Pages Deployment](https://DEINUSERNAME.github.io/zensornoctrl/)
+
 
 <!--
 **ZensorNoCtrl/zensornoctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
