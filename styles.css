@@ -1,0 +1,15 @@
+:root { --max: 980px; --pad: 16px; font: 16px/1.5 system-ui, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #0b0b0c; color: #e9e9ea; }
+.wrap { max-width: var(--max); margin: 0 auto; padding: var(--pad); }
+header { padding: 32px var(--pad); border-bottom: 1px solid #26262a; }
+h1 { margin: 0 0 8px; letter-spacing: .5px; }
+nav a { margin-right: 16px; color: #9aa0a6; text-decoration: none; }
+nav a:hover { color: #fff; }
+h2 { margin-top: 32px; }
+ul { padding-left: 18px; }
+.card { border: 1px solid #26262a; padding: 16px; border-radius: 8px; }
+.btn { display: inline-block; padding: 10px 14px; border: 1px solid #3a3a40; text-decoration: none; color: #fff; }
+.btn:hover { background: #1c1c20; }
+input, textarea, button { width: 100%; padding: 10px; margin: 8px 0; border-radius: 6px; border: 1px solid #2a2a2f; background: #111114; color: #e9e9ea; }
+.small { font-size: .925rem; color: #9aa0a6; }
